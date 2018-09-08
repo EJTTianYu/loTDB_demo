@@ -10,7 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
-    int a,b,c;
+    int a,b,c,d;
 }
 
 
